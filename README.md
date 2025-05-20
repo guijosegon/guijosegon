@@ -19,10 +19,10 @@
 - 🧠 Sou apaixonado por BackEnd como foco principal, estruturar soluções robustas, APIs/Webhooks bem definidas e lógicas eficientes.
 
 #### 👨‍💻 Tecnologias
-![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java)
 ![C#](https://img.shields.io/badge/-CSharp-239120?style=flat&logo=csharp)
 ![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat&logo=dotnet)
 ![.NET Core](https://img.shields.io/badge/-.NET%20Core-512BD4?style=flat&logo=dotnet)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript)
 
 #### 🧰 Ferramentas
