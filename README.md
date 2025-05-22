@@ -7,7 +7,7 @@
 🎓 Estudante de Ciências da Computação - UNESC.
 
 📍 Atualmente trabalhando em projetos como:  
-  - 🔧 [Narwal - Comex] – Sou desenvolvedor a quase 3 anos na empresa, atuando com tecnolgias de foco pessoal e como SM/Code Review.
+  - 🔧 [Narwal - Comex] – Sou desenvolvedor a mais de 2 anos e meio na empresa, atuando com tecnolgias e como SM/Code Review.
   - 🚀 [rHux] – Projeto pessoal sobre gerenciamento e facilidade de RHs em qualquer e diversa empresa, seja ela micro ou internacional.
   - 📚 [Diversos] - Tanto para estudos de faculdade/cursos como para elevação de skills.
 
