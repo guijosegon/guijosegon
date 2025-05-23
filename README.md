@@ -2,6 +2,9 @@
 
 #### Utilizo meu GitHub para projetos pessoais (maioria privados) e estudos realizados, com intuito de expandir conhecimento!
 
+![Visualizações de Perfil](https://komarev.com/ghpvc/?username=guijosegon&label=Visualiza%C3%A7%C3%B5es&color=blue)
+![Commits Públicos](https://img.shields.io/badge/Commits-180%2B-blue?style=flat&logo=git)
+
 💻 Desenvolvedor Full-Stack — focado em [C# | .NET].
 
 🎓 Estudante de Ciências da Computação - UNESC.
