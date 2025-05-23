@@ -63,8 +63,6 @@
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=guijosegon&theme=radical)
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=guijosegon&show_icons=true&theme=radical)
-
 ![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=guijosegon&layout=compact&theme=radical)
 
 ---
