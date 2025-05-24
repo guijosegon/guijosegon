@@ -10,7 +10,7 @@
 🎓 Estudante de Ciências da Computação - UNESC.
 
 📍 Atualmente trabalhando em projetos como:  
-  - 🔧 [Narwal Sistemas] – Atuo há mais de 2 anos e meio como desenvolvedor na empresa, participando ativamente de projetos com foco em tecnologia, além de exercer o papel de Scrum Master e realizar code reviews regularmente. Mais de **1.600 commits registrados** em repositórios privados da empresa, refletindo forte participação em entregas, manutenções e evolução de sistemas.
+  - 🔧 [Narwal Sistemas] – Atuo há mais de 2 anos e meio como desenvolvedor na empresa, participando ativamente de projetos com foco em tecnologia, além de exercer o papel de Scrum Master e realizar code reviews regularmente.
   - 🚀 [rHux] – Projeto pessoal sobre gerenciamento e facilidade de RHs em qualquer e diversa empresa, seja ela micro ou internacional.
   - 📚 [Diversos] - Tanto para estudos de faculdade/cursos como para elevação de skills.
 
