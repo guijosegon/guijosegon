@@ -63,8 +63,6 @@
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=guijosegon&theme=radical)
 
-![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=guijosegon&theme=radical)
-
 ---
 
 🧠 *“Aprender é a única coisa de que a mente nunca se cansa, nunca tem medo e nunca se arrepende.”* – Leonardo da Vinci  
