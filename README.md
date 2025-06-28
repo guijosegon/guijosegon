@@ -10,8 +10,7 @@
 🎓 Estudante de Ciências da Computação - UNESC.
 
 📍 Atualmente trabalhando em projetos como:  
-  - 🔧 [Narwal Sistemas] – Atuo há mais de 2 anos e meio como desenvolvedor na empresa, participando ativamente de projetos com foco em tecnologia, além de exercer o papel de Scrum Master e realizar code reviews regularmente.
-  - 🚀 [rHux] – Projeto pessoal sobre gerenciamento e facilidade de RHs em qualquer e diversa empresa, seja ela micro ou internacional.
+  - 🔧 [Narwal Sistemas] – Atuo há quase 3 anos como desenvolvedor na empresa, participando ativamente de projetos com foco em tecnologia, além de exercer o papel de Scrum Master e realizar code reviews regularmente.
   - 📚 [Diversos] - Tanto para estudos de faculdade/cursos como para elevação de skills.
 
 ### 💡 Sobre mim
