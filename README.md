@@ -61,7 +61,6 @@
 ### 📈 Estatísticas do GitHub
 
 ![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=guijosegon&theme=radical)
-![GitHub Streak](https://streak-stats.demolab.com/?user=guijosegon&theme=radical)
 
 ---
 
