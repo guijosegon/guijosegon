@@ -15,7 +15,7 @@
 
 ### 💡 Sobre mim
 
-- 🔭 Sempre aprendendo algo novo, ultimamente sobre [.NET 8, React e Docker (ampliando)]
+- 🔭 Sempre aprendendo algo novo e estar atualizado.
 - 📚 Apaixonado por resolver problemas com código e desenvolver soluções.
 - 🌱 Buscando colaborar em projetos open source e aprender com a comunidade.
 - 🧠 Sou apaixonado por BackEnd como foco principal, estruturar soluções robustas, APIs/Webhooks bem definidas e lógicas eficientes.
